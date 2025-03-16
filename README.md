@@ -1,2 +1,3 @@
 # Diabetes_dataset_model01
-# Check the performance of the model on the same dataset consists of different train and test size
+
+Check the model's performance on the same dataset with different train and test sizes
